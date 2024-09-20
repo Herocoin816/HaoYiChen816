@@ -1,8 +1,7 @@
 
 🏆Stats:
 
-[[![trophy](https://github-profile-trophy.vercel.app/?username=ccprogrammer)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 🔨Languages and Tools:
 
