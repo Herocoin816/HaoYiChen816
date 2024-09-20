@@ -21,7 +21,7 @@
 
 📞Connect with me:
 
-[![website](https://img.icons8.com/fluency/48/000000/skype-new.png)](https://www.instagram.com/lubiancaaa)
+[![website](https://img.icons8.com/fluency/48/000000/slick-new.png)](https://www.instagram.com/lubiancaaa)
 &nbsp;&nbsp;
 [![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/lubianca-samora/)
 &nbsp;&nbsp;
