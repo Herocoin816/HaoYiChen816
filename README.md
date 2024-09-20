@@ -1,31 +1,3 @@
-# Hi there, I'm Lubi - aka [ccprogrammer][github] 🙏 
-What is ccprogrammer? it means **cita-cita programmer** in bahasa Indonesia and in english it's **Dreaming to be a Programmer**.
-
-<br />
-
-### I'm a Muslim Mobile Frontend Developer specializing in Flutter and various other tools
-- 💵 I'm currently working as Flutter Developer
-- 🔭 Learning everything i like and find it useful
-- 🤝 Looking to collaborate with other developer
-- 🚀 2024 Goals: Learn more about flutter and earn much money as possible 
-- ⚡ Fun fact: I've been a black belt Taekwondo athlete since high school, and now I'm also a Muay Thai Fighter.
-
-
-
-### Connect with me:
-
-
-[![website](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/lubiancaaa)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/lubianca-samora/)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/fluency/48/000000/discord-new-logo.png)](https://discordhub.com/profile/465550439950057473)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/fluency/48/000000/steam.png)](https://steamcommunity.com/profiles/76561198184918382)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png)](https://stackoverflow.com/users/17653156/ccp)
-
-
 
 ### Languages and Tools:
 
@@ -49,12 +21,19 @@ What is ccprogrammer? it means **cita-cita programmer** in bahasa Indonesia and 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ccprogrammer)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-<br />
-<br />
+### Connect with me:
 
----
--->
+
+[![website](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/lubiancaaa)
+&nbsp;&nbsp;
+[![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/lubianca-samora/)
+&nbsp;&nbsp;
+[![website](https://img.icons8.com/fluency/48/000000/discord-new-logo.png)](https://discordhub.com/profile/465550439950057473)
+&nbsp;&nbsp;
+[![website](https://img.icons8.com/fluency/48/000000/steam.png)](https://steamcommunity.com/profiles/76561198184918382)
+&nbsp;&nbsp;
+[![website](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png)](https://stackoverflow.com/users/17653156/ccp)
+
 
 <!--
 ### 💰 Work Project Apps
