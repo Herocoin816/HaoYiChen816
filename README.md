@@ -40,12 +40,12 @@
 -->
 
 <!-- APPS-LIST:START -->
-<!--
+
 - [OneSmile](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
 - [Homerun Indonesia ](https://play.google.com/store/apps/details?id=com.homerun.homerunclient)
 - [Layar](https://play.google.com/store/apps/details?id=com.tvri.layar)
 - [Ontracker](https://github.com/ccprogrammer)
--->
+
 <!-- APPS-LIST:END -->
 
 <!--
