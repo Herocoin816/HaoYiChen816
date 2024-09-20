@@ -35,48 +35,7 @@
 [![website](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png)](https://stackoverflow.com/users/17653156/ccp)
 
 
-<!--
-### 💰 Work Project Apps
--->
 
-<!-- APPS-LIST:START -->
-
-- [OneSmile](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile&hl=en&gl=US)
-- [Homerun Indonesia ](https://play.google.com/store/apps/details?id=com.homerun.homerunclient)
-- [Layar](https://play.google.com/store/apps/details?id=com.tvri.layar)
-- [Ontracker](https://github.com/ccprogrammer)
-
-<!-- APPS-LIST:END -->
-
-<!--
-### 💻 Self Develop Website
--->
-<!-- APPS-LIST:START -->
-<!--
-- [✈️ Bored in home ? Traveling Website Nomaden](https://ccprogrammer.github.io/nomaden/)
-- [🏡 Do you want your dream house come true?](https://ccprogrammer.github.io/zarchitect/) 
-- [💸 Are you productive enough? Creative Agency](https://ccprogrammer.github.io/creativeagency/)
--->
-<!-- APPS-LIST:END -->
-
-<!--
----
--->
-<!--
-### 💲 My Project Apps Preview
-</br>
--->
-
-<!--
-| [OneSmile](https://play.google.com/store/apps/details?id=com.sinarmasland.onesmile)  | [Homerun Indonesia](https://play.google.com/store/apps/details?id=com.homerun.homerunclient) | [Layar](https://play.google.com/store/apps/details?id=com.tvri.layar) |
-| ------------- | ------------- | ------------- |
-| <video src="https://github.com/ccprogrammer/ccprogrammer/assets/90954993/bc082b53-30f1-46fd-81df-4951d7ab6ec3">  | <video src="https://user-images.githubusercontent.com/90954993/197125782-0895e55a-f12f-43b2-951e-ff26ed2bd919.mp4">  |  <video src="https://github.com/ccprogrammer/ccprogrammer/assets/90954993/ced9ca04-5ae9-4b15-a28d-cb49f189d34c">  | 
-  
-| Ontracker  |
-| ------------- |
-| <video src="https://user-images.githubusercontent.com/90954993/197125210-0fecc6c0-9eb1-4231-ba53-923e35256cb3.mp4">  |
-  
-</br>
 
  ### 🔨 My Apps Preview
   
@@ -88,7 +47,7 @@
 | [LazyGram](https://github.com/ccprogrammer/lazygram)  | [Space](https://github.com/ccprogrammer/space) | [My Maps](https://github.com/ccprogrammer/my-google-maps) |
 | ------------- | ------------- | ------------- |
 | <video src="https://user-images.githubusercontent.com/90954993/197124231-d60dc539-6892-40c7-afd0-93d53d7c359c.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/197159227-9838825f-8e9f-423a-b79b-05b9f592a86c.mp4">  |  <video src="https://user-images.githubusercontent.com/90954993/197125801-5c899bca-5209-4ed2-986a-7fed6028f957.mp4">  | 
--->
+
 
 [github]: https://ccprogrammer.vercel.app/
 [instagram]: https://instagram.com/codeSTACKr
