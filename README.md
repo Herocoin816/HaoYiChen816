@@ -117,7 +117,7 @@
 
 [![website](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/haoyichen816)
 &nbsp;&nbsp;
-[![website](https://img.icons8.com/fluency/48/000000/linkedin.png)]((https://www.linkedin.com/in/hiroki-kochi-b40111330/))
+[![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/hiroki-kochi-b40111330/)
 &nbsp;&nbsp;
 [![website](https://img.icons8.com/fluency/48/000000/discord-new-logo.png)](https://discordhub.com/profile/465550439950057473)
 &nbsp;&nbsp;
