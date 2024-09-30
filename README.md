@@ -13,7 +13,7 @@
       <br>Javascript
   </td>
   <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="45" height="45" /> 
       <br>Typescript
   </td>
   <td align="center" width="90">
